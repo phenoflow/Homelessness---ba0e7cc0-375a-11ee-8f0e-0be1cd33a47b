@@ -1,0 +1,72 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/homelessness---secondary.py
+inputModule3:
+  class: File
+  path: python/homelessness-house---nonstandard.py
+inputModule4:
+  class: File
+  path: python/homelessness-street---nonstandard.py
+inputModule5:
+  class: File
+  path: python/homelessness-inclusion---nonstandard.py
+inputModule6:
+  class: File
+  path: python/homelessness-service---nonstandard.py
+inputModule7:
+  class: File
+  path: python/homelessness-nursing---nonstandard.py
+inputModule8:
+  class: File
+  path: python/homelessness-action---nonstandard.py
+inputModule9:
+  class: File
+  path: python/patient-homelessness---nonstandard.py
+inputModule10:
+  class: File
+  path: python/homelessness---nonstandard.py
+inputModule11:
+  class: File
+  path: python/homelessness-centre---nonstandard.py
+inputModule12:
+  class: File
+  path: python/homelessness-team---nonstandard.py
+inputModule13:
+  class: File
+  path: python/central-homelessness---nonstandard.py
+inputModule14:
+  class: File
+  path: python/homelessness-london---nonstandard.py
+inputModule15:
+  class: File
+  path: python/homelessness-healthcare---nonstandard.py
+inputModule16:
+  class: File
+  path: python/clinic-homelessness---nonstandard.py
+inputModule17:
+  class: File
+  path: python/medical-homelessness---nonstandard.py
+inputModule18:
+  class: File
+  path: python/homelessness-surgery---nonstandard.py
+inputModule19:
+  class: File
+  path: python/homelessness-practice---nonstandard.py
+inputModule20:
+  class: File
+  path: python/wirral-homelessness---nonstandard.py
+inputModule21:
+  class: File
+  path: python/homelessness-cambridge---nonstandard.py
+inputModule22:
+  class: File
+  path: python/homelessness-refugees---nonstandard.py
+inputModule23:
+  class: File
+  path: python/output-cases.py
